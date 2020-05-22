@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Teensy3.6)(type KiCad)(uri ${KIPRJMOD}/Teensy3.6.pretty)(options "")(descr ""))
+  (lib (name MPL3115A2)(type KiCad)(uri ${KIPRJMOD}/MPL3115A2.pretty)(options "")(descr ""))
+  (lib (name ADXL377)(type KiCad)(uri ${KIPRJMOD}/ADXL377.pretty)(options "")(descr ""))
+  (lib (name "1x2 screw terminal")(type KiCad)(uri "${KIPRJMOD}/1x2 screw terminal.pretty")(options "")(descr ""))
+  (lib (name dummythiccinductor)(type KiCad)(uri ${KIPRJMOD}/dummythiccinductor.pretty)(options "")(descr ""))
+  (lib (name elect_capacitors)(type KiCad)(uri ${KIPRJMOD}/elect_capacitors.pretty)(options "")(descr ""))
+  (lib (name IN5822)(type KiCad)(uri ${KIPRJMOD}/IN5822.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MPL3155A2)(type Legacy)(uri ${KIPRJMOD}/MPL3155A2.lib)(options "")(descr ""))
+  (lib (name ADXL377)(type Legacy)(uri ${KIPRJMOD}/ADXL377.lib)(options "")(descr ""))
+  (lib (name Teensy3.6)(type Legacy)(uri ${KIPRJMOD}/Teensy3.6.lib)(options "")(descr ""))
+  (lib (name USLI-Beavs-2020-V2-rescue)(type Legacy)(uri "${KIPRJMOD}/USLI Beavs 2020 V2-rescue.lib")(options "")(descr ""))
+)
